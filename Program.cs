@@ -50,7 +50,7 @@ namespace MethodExample
 
 		public static void FindArea(int p, int r)
 		{
-			int a = p * r;  //üstlü qüvvət anlayışı keçilmədiyi üçün əlavə dəyişən daxil etdim
+			int a = p * r;   
 			int S = a * r;
 			Console.WriteLine(S);
 
